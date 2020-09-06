@@ -1,1 +1,1 @@
-# mern-stack-todos
+# Simple Note Application Using By Mern Stack
