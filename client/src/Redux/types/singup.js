@@ -1,0 +1,5 @@
+export const handleChange = 'CHANGE_HANDLER'
+export const handleSubmit = 'SUBMIT_HANDLE'
+export const validationForm = 'FORM_VALIDATOR'
+export const serverError = 'SERVER_ERROR'
+export const successForCreated = 'SUCCESS_FOR_CREATED'

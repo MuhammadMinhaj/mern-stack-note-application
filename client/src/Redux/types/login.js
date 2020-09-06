@@ -1,0 +1,7 @@
+export const handleChange = 'CHANGE_HANDLER'
+export const validationForm = 'FORM_VALIDATOR'
+export const handleSubmit = 'SUBMIT_HANDLER'
+export const successRequest = 'REQUEST_SUCCESS'
+export const serverError = 'SERVER_ERROR'
+export const verifyToken = 'TOKEN_VERIFY'
+export const verifyTokenError = 'VERIFY_TOKEN_ERROR'
