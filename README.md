@@ -1,1 +1,1 @@
-# Simple Note Application Using By Mern Stack
+# Simple Note Application
