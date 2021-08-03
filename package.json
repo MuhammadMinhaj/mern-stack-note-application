@@ -28,7 +28,7 @@
 		"gitignore": "^0.6.0",
 		"helmet": "^4.1.0",
 		"jsonwebtoken": "^8.5.1",
-		"mongoose": "^5.10.0"
+		"mongoose": "^5.13.5"
 	},
 	"devDependencies": {
 		"morgan": "^1.10.0",
